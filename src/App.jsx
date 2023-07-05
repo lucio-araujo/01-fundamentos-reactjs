@@ -22,9 +22,9 @@ export function App() {
         {
           type: "paragraph",
           content:
-            "É um projeto que fiz no Ignite da Rocketseat. O nome do projeto é: Fundamentos do React 🚀.",
+            "É um projeto sobre os fundamentos do ReactJS. O nome do projeto é: Fundamentos do React 🚀.",
         },
-        { type: "link", content: "jane.design/doctorcare" },
+        { type: "link", content: "lucio-araujo/01-fundamentos-reactjs" },
       ],
       publishedAt: new Date("2023-04-07 20:00:00"),
     },
@@ -44,9 +44,9 @@ export function App() {
         {
           type: "paragraph",
           content:
-            "É um projeto que fiz no Ignite da Rocketseat. O nome do projeto é: Fundamentos do React 🚀.",
+            "É um projeto sobre os fundamentos do ReactJS. O nome do projeto é: Fundamentos do React 🚀.",
         },
-        { type: "link", content: "jane.design/doctorcare" },
+        { type: "link", content: "lucio-araujo/01-fundamentos-reactjs" },
       ],
       publishedAt: new Date("2023-04-10 18:00:00"),
     },
